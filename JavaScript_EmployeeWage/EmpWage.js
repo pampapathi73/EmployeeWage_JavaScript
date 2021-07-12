@@ -8,7 +8,7 @@ else
     console.log("Employee Is PRESENT");
     */
 
-    //UC-3
+    //UC-4
 
 const IS_PART_TIME = 1;
 const IS_FULL_TIME = 2;
