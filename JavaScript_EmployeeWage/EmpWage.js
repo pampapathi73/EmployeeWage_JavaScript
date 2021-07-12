@@ -16,7 +16,7 @@ const PART_TIME_HOUR = 4;
 const FULL_TIME_HOUR = 8;
 const WAGE_PER_HOUR = 20;
 
-const NUM_OF_WORKING_DAYS=10;
+const NUM_OF_WORKING_DAYS=20;
 const MAX_HRS_IN_MONTH = 100;
 
 
